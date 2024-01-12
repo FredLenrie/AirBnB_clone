@@ -13,6 +13,7 @@
 
 ## Author Details
 1. *Frederick Budu*
+2. *Obed Yawson Akpah*
 
 ##  Requirements
 *   Allowed editors: `vi`, `vim`, `emacs`.
